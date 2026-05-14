@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ranahananshafique
 - 👀 I’m interested in learning more and more about programming and excelling at my programming skills
-- 🌱 I’m currently learning Python and previously I have been learning C++ and Java intermediately
+- 🌱 I’m currently learning APIs, Automation and striving to include Fullstack Development as a skill in my resume
 - 💞️ I’m looking to collaborate on projects that will help me grow as a developer
 - 📫 How to reach me Instagram: @ranahananshafique 
 - 😄 Pronouns: he/him
